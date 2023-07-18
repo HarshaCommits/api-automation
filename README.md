@@ -29,9 +29,6 @@ To execute the test cases, open a terminal/command prompt in the project directo
 
 To check the reports of test cases executed, open a terminal/command prompt in the project directory and run:
     ```
-    ./gradlew allureReport
-    ```
-    ```
     ./gradlew allureServe
     ```
 
